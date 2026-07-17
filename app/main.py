@@ -47,7 +47,7 @@ def add(a: float, b: float):
     return {
         "a": a,
         "b": b,
-        "result": a - b,
+        "result": a + b,
     }
 
 
